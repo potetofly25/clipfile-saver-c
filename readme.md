@@ -8,5 +8,4 @@
 * Visual Studio 2022
 
 # Images
-
-![image](https://github.com/potetofly25/clipfile-saver-c/assets/146954406/9ee1ecba-3035-437d-99fe-fe0212d5f28f)
+![image](https://github.com/potetofly25/clipfile-saver-c/assets/146954406/4ad7b02b-44d3-42c3-9952-eeaf4c6c3f6d)
