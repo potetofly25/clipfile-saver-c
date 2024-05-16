@@ -6,7 +6,7 @@
 # Requirement
 
 * Visual Studio 2022 C#
-* .NET7.0
+* .NET8.0
 
 # Images
 ![image](https://github.com/potetofly25/clipfile-saver-c/assets/146954406/4ad7b02b-44d3-42c3-9952-eeaf4c6c3f6d)
